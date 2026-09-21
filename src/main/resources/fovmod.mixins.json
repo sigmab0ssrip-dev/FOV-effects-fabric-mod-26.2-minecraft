@@ -1,1 +1,11 @@
-
+{
+  "required": true,
+  "package": "com.example.fovmod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "FovMultiplierMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
